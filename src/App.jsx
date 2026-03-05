@@ -130,7 +130,7 @@ Dan verklaar ik deze date bij deze voor geopend.`,
 const Global = createGlobalStyle`
   :root { color-scheme: dark; }
   * { box-sizing: border-box; }
-  html, body { height: 100%; }
+  html, body { height: 100%;  }
   body {
     margin: 0;
     font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Arial, "Apple Color Emoji", "Segoe UI Emoji";
@@ -138,6 +138,9 @@ const Global = createGlobalStyle`
                 radial-gradient(900px 600px at 90% 10%, rgba(99, 102, 241, 0.14), transparent 55%),
                 linear-gradient(180deg, #06060a, #0b0b12 45%, #0b0b12);
     color: rgba(255,255,255,0.92);
+    display: flex;
+    align-items: center;
+    justify-content: center;
   }
   button, input, textarea { font-family: inherit; }
 `;
