@@ -210,8 +210,7 @@ export default function App() {
         <Wrap>
           <Header>
             <div>
-              <Title>Swipe Game</Title>
-              {/* <Sub>← / → swipen • R reset • mobile: drag</Sub> */}
+              <Title>Matches van Floor</Title>
             </div>
             <Pill>
               <span>❤️ {liked}</span>
@@ -297,7 +296,7 @@ function EndScreen({ liked, noped, onReset }) {
       </Grid>
 
       <EndButtons>
-        <GhostButton onClick={onReset}>Nog een keer</GhostButton>
+        <GhostButton onClick={onReset}>Wie was wie?</GhostButton>
       </EndButtons>
     </EndCard>
   );
