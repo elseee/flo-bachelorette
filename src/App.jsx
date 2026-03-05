@@ -19,35 +19,35 @@ const DECK = [
     name: "Larissa",
     maleName: 'Leo',
     bio: "Zorgzame treingekkie die haar reizen ook graag op de fiets maakt. Stap jij in/bij mij achterop?",
-    image: "/images/larissa.png",
+    image: "images/larissa.png",
   },
   {
     id: "fenna",
     name: "Fenna",
     maleName: 'Jasper',
     bio: `Liefhebber van wijn die weet hoe hij jouw kurk moet poppen 😏 Psycholoog van beroep, dus kruip graag onder je huid (en ook in je bed). Mijn kat is mijn grootste liefde, maar zoek nog een echte stoeipoes.`,
-    image: "/images/fenna.jpeg",
+    image: "images/fenna.jpeg",
   },
   {
     id: "michelle",
     name: "Michelle",
     maleName: 'Roderick',
     bio: `Amore, samen naar Italië? Normaal zouden we gaan vliegen maar tegewoordig kies ik de trein.`,
-    image: "/images/michelle.png",
+    image: "images/michelle.png",
   },
   {
     id: "bette",
     name: "Bette",
     maleName: 'Peter',
     bio: `Hey leukerd! Ik houd van avontuurlijke sporten, lekker uit eten gaan of koken. Ik ben altijd in voor een feestje en als je het koud hebt houd ik je slaapzak warm en zing een liedje voor je.`,
-    image: "/images/bette.png",
+    image: "images/bette.png",
   },
   {
     id: "mariette",
     name: "Mariëtte",
     maleName: 'Leandro',
     bio: `Fitboy! Beest in de gym (en niet alleen in de gym). Voor mij geen alcohol, liever eiwitshakes. Docent op de Hogeschool. Dietist voor topsporters.. Woon in een paleis met een koning, maar altijd in voor een swing!`,
-    image: "/images/mariette.jpeg",
+    image: "images/mariette.jpeg",
   },
   {
     id: 'lotte',
@@ -57,7 +57,7 @@ const DECK = [
 Klaar voor avontuur en romantiek?
 Ik hou van goede wijnen, heerlijk eten en feestjes. Het liefst samen met een mooie vrouw aan mijn zijde aan de andere kant van de wereld.
 Mijn levensmotto: leef je leven met liefde en lef!`,
-    image: '/images/lotte.jpeg',
+    image: 'images/lotte.jpeg',
   },
   {
     id: 'alex',
@@ -65,14 +65,14 @@ Mijn levensmotto: leef je leven met liefde en lef!`,
     maleName: 'Cas',
     bio: `Bourgondiër in hart en nieren met een flinke talen "knobbel". 
 Doordeweeks ben ik regelmatig te vinden op de padelbaan. Wil jij met mij een keer gemengd dubbel spelen?`,
-    image: '/images/alex.jpeg',
+    image: 'images/alex.jpeg',
   },
   {
     id: 'manel',
     name: 'Manel',
     maleName: 'Remco',
     bio: `Hello you! Ben jij opzoek naar een exotisch uistapje? Dan ben ik de man voor jou! Party-animal tijdens de studententijd maar tegenwoordig strak in pak in de corporate world. In mijn vrije tijd drink ik graag een glas wijn of ga ik de bergen in. Voorkeur voor een dame met een Brits accent maar misschien maak ik voor jou wel een uitzondering ;)`,
-    image: '/images/manel.png',
+    image: 'images/manel.png',
   },
   {
     id: 'mieke',
@@ -80,7 +80,7 @@ Doordeweeks ben ik regelmatig te vinden op de padelbaan. Wil jij met mij een kee
     maleName: 'Bart',
     bio: `Hou van een goed feestje, maar net zo van een avond koken met een mooi glas wijn. 
 Zoek iemand die mee wil lachen, proosten en misschien mijn kookkunsten wil testen 😉`,
-    image: '/images/mieke.jpeg',
+    image: 'images/mieke.jpeg',
   },
     {
     id: 'else',
@@ -90,7 +90,7 @@ Zoek iemand die mee wil lachen, proosten en misschien mijn kookkunsten wil teste
 Grote kans dat je mij vindt op een terras met een glas wijn of ergens onderweg naar het volgende avontuur.
 Bonuspunten als je mijn vriend(inn)en ook leuk vindt, die hebben namelijk altijd een mening.
 `,
-    image: '/images/else.png',
+    image: 'images/else.png',
   },
   {
     id: 'cherissa',
@@ -98,14 +98,14 @@ Bonuspunten als je mijn vriend(inn)en ook leuk vindt, die hebben namelijk altijd
     maleName: 'Chris',
     bio: `Arm of rijk? Dat maakt me echt niks uit. Als jij oprecht bent en een goed gesprek kan voeren, zit je al goed.
 Ik val op een stoere vrouw met een zacht hart. Iemand die van kinderen houdt en mijn boefjes met liefde én een beetje pit aankan.`,
-    image: '/images/cherissa.jpeg',
+    image: 'images/cherissa.jpeg',
   },
   {
     id: 'eline',
     name: 'Eline',
     maleName: 'Sjors',
     bio: `Vogelspotter extraordinaire! Fan van zonsondergangen, strandwandelingen en het identificeren van gevederde vrienden… tweet me! Laten we samen fluiten en kijken waar onze liefde kan vliegen!`,
-    image: '/images/eline.jpeg',
+    image: 'images/eline.jpeg',
   },
   {
     id:'merel',
@@ -116,14 +116,14 @@ Goede gesprekken, speelse humor en een zwak voor iemand die mij scherp houdt.
 
 Zullen we onderzoeken of er sprake is van wederzijdse wilsovereenstemming?
 Dan verklaar ik deze date bij deze voor geopend.`,
-    image: '/images/merel.jpeg',
+    image: 'images/merel.jpeg',
   },
   {
     id: 'emmy',
     name: 'Emmy',
     maleName: 'Sven',
     bio: `Gaat jouw hart ook sneller kloppen van natuurwandelingen, taart en eerste generatie Pokémon? Scroll dan niet verder! Laat je blije kind de vrij loop of maak een filosofisch uitstapje met mij. Dan snuif ik met plezier jouw versgebakken muffin op.`,
-    image: '/images/emmy.jpeg',
+    image: 'images/emmy.jpeg',
   }
 ];
 
