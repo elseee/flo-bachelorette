@@ -6,5 +6,6 @@ export default defineConfig({
   plugins: [react(), tailwindcss()],
   server: {
     allowedHosts: ['placing-once-milan-petersburg.trycloudflare.com'],
-  }
+  },
+  base: "/flo-bachelorette/",
 })
